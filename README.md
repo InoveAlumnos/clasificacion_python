@@ -12,6 +12,10 @@ ejemplo_clase
 __Ejercicios para que el alumno desarrolle lo visto en clase__\
 ejercicios_practica
 
+__Ejercicios para que el alumno profundice sobre el tema durante la semana__\
+ejercicio_profundizacion
+
+
 # Consultas
 alumnos@inove.com.ar
 
